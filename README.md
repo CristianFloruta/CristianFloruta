@@ -8,7 +8,7 @@
       
 - 🌱 I’m currently learning:
       - Python;
-      - Autmoated testing
+      - Automated testing
 
 - 💞️ I’m looking to collaborate 
 
