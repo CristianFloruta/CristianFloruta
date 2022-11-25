@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristianFloruta
-      Automated Tester, Software Engineer, Data analysis
+      Automated Tester, Software Engineer, Data Analyst
 
 - 👀 I’m interested in:
       - Writing and testing code in Python;
