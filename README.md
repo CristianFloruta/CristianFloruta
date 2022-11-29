@@ -1,16 +1,14 @@
 - 👋 Hi, I’m @CristianFloruta
-      Automated Tester, Software Engineer, Data Analyst
+      Test Engineer, Software Engineer, Data Analyst
 
-- 👀 I’m interested in:
-      - Writing and testing code in Python;
-      - Evaluating and testing new software programs in Python;
+- 👀 I’m interested in \n:
+      - Writing and testing code in Python, Java \n;
+      - Evaluating and testing new software programs in Python and Java \n;
       - Data analysis
       
 - 🌱 I’m currently learning:
-      - Python;
-      - Automated testing
-
-- 💞️ I’m looking to collaborate 
+      - Python/Java;
+      - Automated Testing
 
 - 📫 How to reach me 
 
